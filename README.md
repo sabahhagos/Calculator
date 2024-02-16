@@ -36,5 +36,3 @@ The Command Line Calculator is a C++ application that provides basic arithmetic 
 ## Contributing
 Contributions are welcome! If you have any suggestions, improvements, or feature requests, please open an issue or submit a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
